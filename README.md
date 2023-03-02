@@ -31,15 +31,15 @@ R = np.diag([0.1])
 
 K, S, E = control.lqr(A, B, Q, R)
 
-#Plot
+# Plot
 
  ![lqr](https://user-images.githubusercontent.com/111333965/222573968-145bbe65-d26b-4875-a30b-484e3baae8ce.png)
 
-#PID vedio
+# PID vedio
 
 https://user-images.githubusercontent.com/111333965/222574096-34e7e6f3-9e78-439f-abb2-e4c8d8a2aed3.mp4
 
-#LQR vedio
+# LQR vedio
 
 https://user-images.githubusercontent.com/111333965/222574128-0cff5a16-be6a-4f7c-8d5a-3d14719971a0.mp4
 
